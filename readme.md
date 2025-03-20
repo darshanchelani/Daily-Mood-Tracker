@@ -25,8 +25,7 @@ A simple, responsive web application to log and track your daily moods over time
 
 ![Mood Tracker Interface](screenshots/mood-tracker.gif)
 
-**Deployed Link:** [https://your-deployed-link-here.com](#)
-_(Update this with your actual deployment URL after hosting.)_
+**Deployed Link:** [https://dailymoodtracker0.netlify.app/](#)
 
 ## Usage
 
